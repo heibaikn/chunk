@@ -4,9 +4,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
-let a = require('./common/common');
- require('./common/test');
-console.log(a);
+// require('./common/common');
+//  require('./common/test');
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
